@@ -12,7 +12,7 @@ This repository presents a comprehensive analysis of a fictional cancer dataset 
 
 ---
 
-## Exercises
+## Objectives
 
 ### 1. Data Import and Cleaning
 - Loaded dataset using `pandas` with special handling for null values (`"NULL"`, `"N/A"`, empty strings).
